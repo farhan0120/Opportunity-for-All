@@ -15,7 +15,7 @@ django-bootstrap-form==3.4
 django-bootstrap-v5==1.0.11
 django-filter==24.2
 filelock==3.12.4
-Flask==3.0.0
+Flask>=2.0.0,<3.0.0
 Flask-APScheduler==1.13.0
 Flask-Cors==4.0.0
 Flask-SQLAlchemy==3.1.1
